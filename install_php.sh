@@ -69,7 +69,6 @@ CONFIGURE_STRINGS="--enable-bcmath \
                    --prefix=/usr/local/php-$version \
                    --with-bz2 \
                    --with-config-file-scan-dir=/usr/local/php-$version/etc/conf.d \
-                   --with-curl \
                    --with-fpm-group=www-data \
                    --with-fpm-user=www-data \
                    --with-freetype-dir \
